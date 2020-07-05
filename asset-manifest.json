@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/material-ui-design/static/css/main.7e2654f0.chunk.css",
+    "main.js": "/material-ui-design/static/js/main.b0f8977b.chunk.js",
+    "main.js.map": "/material-ui-design/static/js/main.b0f8977b.chunk.js.map",
+    "runtime-main.js": "/material-ui-design/static/js/runtime-main.899f215d.js",
+    "runtime-main.js.map": "/material-ui-design/static/js/runtime-main.899f215d.js.map",
+    "static/css/2.4707e12a.chunk.css": "/material-ui-design/static/css/2.4707e12a.chunk.css",
+    "static/js/2.9a072d40.chunk.js": "/material-ui-design/static/js/2.9a072d40.chunk.js",
+    "static/js/2.9a072d40.chunk.js.map": "/material-ui-design/static/js/2.9a072d40.chunk.js.map",
+    "index.html": "/material-ui-design/index.html",
+    "precache-manifest.876d9a8cde0f5c0a53eac934c4b05710.js": "/material-ui-design/precache-manifest.876d9a8cde0f5c0a53eac934c4b05710.js",
+    "service-worker.js": "/material-ui-design/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/material-ui-design/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.7e2654f0.chunk.css.map": "/material-ui-design/static/css/main.7e2654f0.chunk.css.map",
+    "static/js/2.9a072d40.chunk.js.LICENSE.txt": "/material-ui-design/static/js/2.9a072d40.chunk.js.LICENSE.txt",
+    "static/media/pic1.jpg": "/material-ui-design/static/media/pic1.db511e47.jpg",
+    "static/media/pic10.jpg": "/material-ui-design/static/media/pic10.f422f469.jpg",
+    "static/media/pic11.jpg": "/material-ui-design/static/media/pic11.ed11748e.jpg",
+    "static/media/pic12.jpg": "/material-ui-design/static/media/pic12.3afcddfb.jpg",
+    "static/media/pic2.jpg": "/material-ui-design/static/media/pic2.4e9339bb.jpg",
+    "static/media/pic3.jpg": "/material-ui-design/static/media/pic3.aeb5303c.jpg",
+    "static/media/pic4.jpg": "/material-ui-design/static/media/pic4.17d6a433.jpg",
+    "static/media/pic5.jpg": "/material-ui-design/static/media/pic5.76f09a49.jpg",
+    "static/media/pic6.jpg": "/material-ui-design/static/media/pic6.53dc1d23.jpg",
+    "static/media/pic7.jpg": "/material-ui-design/static/media/pic7.f02f5f1c.jpg",
+    "static/media/pic8.jpg": "/material-ui-design/static/media/pic8.5375cbcb.jpg",
+    "static/media/pic9.jpg": "/material-ui-design/static/media/pic9.3ac00925.jpg",
+    "static/media/resort1.jpg": "/material-ui-design/static/media/resort1.013b5f9a.jpg",
+    "static/media/resort2.jpg": "/material-ui-design/static/media/resort2.b732878b.jpg",
+    "static/media/resort3.jpg": "/material-ui-design/static/media/resort3.54186286.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.899f215d.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.9a072d40.chunk.js",
+    "static/css/main.7e2654f0.chunk.css",
+    "static/js/main.b0f8977b.chunk.js"
+  ]
+}
