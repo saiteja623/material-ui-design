@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf05d7ed8f837536e2f0d650ea61cecb",
+    "revision": "fb965207a62cf77486af3946acf2428f",
     "url": "/material-ui-design/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/material-ui-design/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "4250eb061267b73de9e7",
-    "url": "/material-ui-design/static/css/main.7e2654f0.chunk.css"
+    "revision": "42d57980a2eb4a71274e",
+    "url": "/material-ui-design/static/css/main.c6d5268f.chunk.css"
   },
   {
     "revision": "91e20f3f95b5687bb74d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/material-ui-design/static/js/2.9a072d40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4250eb061267b73de9e7",
-    "url": "/material-ui-design/static/js/main.b0f8977b.chunk.js"
+    "revision": "42d57980a2eb4a71274e",
+    "url": "/material-ui-design/static/js/main.847afdbb.chunk.js"
   },
   {
     "revision": "2363cc4a1236b1d326e5",
